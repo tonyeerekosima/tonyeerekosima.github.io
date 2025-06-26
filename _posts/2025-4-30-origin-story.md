@@ -4,9 +4,9 @@ title: All About Me
 description: First blog post on the open internet. 
 
 category:
-- CyberPatriot
+- General
 tags:
-- cyberpatriot
+- about
 
 date: 2025-4-17 00:00 -0500
 ---
