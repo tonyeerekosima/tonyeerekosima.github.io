@@ -24,13 +24,14 @@ Difficulty: Easy
 
 # Challenge
 Once opened, the challenge presents us with the following: 
+
 ![This image would be a screenshot of the challenge](/assets/img/writeup.png)
 
 The challenge provides a file containing a list of grades, percentages, and classes that the student (Josh) has taken, titled transcript.txt 
+
 ![This image would be a screenshot of the challenge file](/assets/img/transcript.png). 
 
-The challenge provided no hints, so this one is purely based on CTF instincts and experience. When opening the transcript.txt file, everything appears normal, but there's
-always some trick with a CTF.
+The challenge provided no hints, so this one is purely based on CTF instincts and experience. When opening the transcript.txt file, everything appears normal, but there's always some trick with a CTF.
 
 # Approach
 My first instinct was the numbers and letters, leading me to believe that there was some cryptography trick to this. So I tried to conenct the letters and numbers together and use a cipher decoder
