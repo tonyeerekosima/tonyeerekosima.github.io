@@ -46,4 +46,4 @@ This looked promising, so I decided to narrow it down. PicoCTF flags are formatt
 ![This image would be a screenshot of the converted file.](/assets/img/hexflag.png)
 
 # Solution 
-The flag is picoCTF{more_than_m33ts_the_3y3BdBd2cc}. This challenge taught me about the basics of hex editor usage, and it was fun to do.
+The flag is picoCTF{more_than_m33ts_the_3y3eBdBd2cc}. This challenge taught me about the basics of hex editor usage, and it was fun to do.
