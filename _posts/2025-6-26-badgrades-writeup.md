@@ -4,6 +4,7 @@ title: Bad Grades Writeup - BCACTF 2025
 Description: My writeup for the Misc/bad-grades challenge in BCACTF 2025
 image: "/assets/img/transcript.png"
 
+
 Categories:
 - Writeups
 - BCACTF 2025
@@ -12,6 +13,7 @@ Tags:
 - Misc
 
 date: 2025-6-26 00:00 -0500
+---
 
 # Intro
 Greetings! In this writeup, I’ll walk through my approach and solution to the Bad Grades challenge from BCACTF 2025.
