@@ -17,7 +17,8 @@ tags:
 - pwn
 - OSINT
 
-date: 2025-7-1 00:00 -0500
+date: 2026-1-20 00:00 -0500
+---
 
 # Intro 
 Hello everyone! Today I will be talking about CTFs, what they are, and list and talk about different resources for getting better at them and practicing to win competitions.
