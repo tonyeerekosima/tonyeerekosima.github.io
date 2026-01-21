@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginner CTF Toolkit 
+title: Beginner CTF Guide and Toolkit 
 description: A helpful guide for those brand new to CTF, as I once was. 
 image: "/assets/img/ctfaddict.png"
 
