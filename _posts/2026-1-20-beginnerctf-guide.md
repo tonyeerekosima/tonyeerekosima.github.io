@@ -40,7 +40,7 @@ Forensics - Consists heavily of file analysis of disk images, regular images, au
 
 Web Exploitation - All about searching for and finding vulnerabilities in web pages and sites. You'll typically be given a website or a link to some website written as an IP address, typically a login page, and you need to use exploitation techniques to find the flag within it. One example is SSTI, short for Server Side Template Injection. 
 
-Reverse Engineering - This concerns a file or program you're typically given (most times a binary file since they're the most complex ones) and breaking it down to figure out how it works on the inside. It's literally what it's called: reversing a puzzle. Sometimes you'll have to intentionally bypass the system, other times break down the system to understand how its components work. 
+Reverse Engineering - This concerns a file or program you're typically given (most times a binary file since they're the most complex ones) and breaking it down to figure out how it works on the inside. It's literally what it's called: reversing a puzzle. Sometimes you'll have to intentionally bypass the system, other times break down the system to understand how its components work. One of the more difficult categories, in my opinion.
 
 Binary Exploitation (pwn) - This is typically called pwn, gaming jargon for completely dominating someone. Pwn is really about finding vulnerabilities within program files and exploiting them, which means gaining access to stuff you shouldn't have, to get the flag. One of the hardest categories due to its being advanced and extensive. 
 
@@ -55,11 +55,10 @@ Alright, we've covered what CTFs are, why they are fun, and the different types 
 For practicing CTFs, the first major website I can recommend to you is picoCTF. This site was developed by students at Carnegie Mellon, and it's a
 great resource for practicing CTF challenges at all different levels, from basic beginner commands to advanced SQL injections. You can register in middle or high school and join a team or just practice on your own within the picoGym!
 
-image: "/assets/img/pico.png"
 
 Another CTF resource that covers a wide range of areas and difficulty levels is TryHackMe, which I think is right up there with Pico. I really like some of their challenges, and they have great ways of teaching. Hack the Box is also a pretty good one, but I would reserve this for more advanced CTF people, because this website heavily involves cybersecurity. For learning and reading up more on CTFs, CTF101 has some great guides and articles. 
 
-You can also learn about challenges for CTFs and past challenges with writeups. A writeup is someone else's report or guide on how to solve or complete a challenge they encountered in a specific CTF competition. CTFtime has a ton of links to writeups online. If you search up the name of CTFs and add "writeups" in the query, then you will find a lot from Medium, which requires an account to set up.
+You can also learn about challenges for CTFs and past challenges with writeups. A writeup is someone else's report or guide on how to solve or complete a challenge they encountered in a specific CTF competition. CTFtime has a ton of links to writeups online. If you search for the name of CTFs and add "writeups" in the query, then you will find a lot from Medium, which requires an account to set up.
 
 Here are all the sources for each category for learning, and some tools or applications for doing:
 
