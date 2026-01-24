@@ -44,7 +44,7 @@ Reverse Engineering - This concerns a file or program you're typically given (mo
 
 Binary Exploitation (pwn) - This is typically called pwn, gaming jargon for completely dominating someone. Pwn is really about finding vulnerabilities within program files and exploiting them, which means gaining access to stuff you shouldn't have, to get the flag. One of the hardest categories due to its being advanced and extensive. 
 
-Miscellaneous - This category is completely random, but consists mainly of general skills. Every serious CTF competitor should know
+Miscellaneous (misc) - This category is completely random, but consists mainly of general skills. Every serious CTF competitor should know
 a decent amount of misc challenges and how to solve them. 
 
 OSINT - Short for Open Source Intelligence. You're given very little and have to go on an internet investigation to find the flag. Kinda related to rev, but doesn't solely focus on one file or piece of information. It's ethical digital stalking basically. 
