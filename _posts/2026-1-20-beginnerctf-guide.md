@@ -24,7 +24,7 @@ date: 2026-1-20 00:00 -0500
 Hello everyone! Today, I will be talking about CTFs, what they are, and listing and discussing different resources for getting better at them and practicing to win competitions. This guide is based on learning from watching and competing in several CTF competitions online and in-person. So, here's my take on all of this.
 
 # What is CTF?
-Capture the flag, more commonly known as CTFs, are cybersecurity challenges designed to give a user some context and information to be used to yield a series of random characters hidden inside of something, otherwise known as a flag. Flags typically have what's called a wrapper, based on the competition. For example, for the writeups I did on BCACTF 2025, the flag format was bcactf{flag}. 
+Capture the flag, more commonly known as CTFs, are cybersecurity challenges designed to give a user some context and information to be used to yield a series of random characters hidden inside of something, otherwise known as a flag. Flags typically have what's called a wrapper, based on the competition. For example, for the writeups I did on BCACTF 2025, the flag format was bcactf{flag}.  
 
 # Why CTFs? 
 CTF competitions are fun to do if you're into networking or cybersecurity-related things, and even if you're not, you can learn a lot from them and have fun experiences with others. The way I found out about them, my friend asked me if I could be a member on his CTF team for a state-wide competition, and we ended up winning, and he allowed me to be a permanent member on his team.
