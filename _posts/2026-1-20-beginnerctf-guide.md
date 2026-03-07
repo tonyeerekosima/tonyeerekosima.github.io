@@ -72,7 +72,7 @@ Web - PortSwigger Labs, CTF101, picoCTF, and TryHackMe
 
 Rev - Binary Ninja, Hack the Box, Objection, and CTF 101.
 
-OSINT - Google or Bing is quite literally all you need, generally.
+OSINT - Google or Bing is really all you need.
 
 Misc - Whatever the challenges require. 
 
