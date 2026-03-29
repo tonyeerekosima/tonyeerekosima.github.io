@@ -4,13 +4,14 @@ icon: fas fa-trophy
 order: 2
 ---
 
-Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one.
+Below is a chronological list of cyber competitions I’ve participated in, along with scores and placements. The team name links to our individual profile for the event, if there was one. Offical member of Sytnax Error. Any other teams were as alternates or backups.
 
 ## Competition History
 
 | Competition        | Team | Score (points) | Placement | Notes (writeups/winnings) |
 |--------------------|------|-------|-----------|-------|
-|LBC2 2026           | Sytnax Error | 16291 |2/14| $50 |
+|Lockheed Martin CQ  | pbchoclate   | 3450 | 1/16 |In-person|🥇+ CyberBelt|
+|LBC2 2026           | Sytnax Error | 16291 |2/14| 🥈 + $50 |
 | PicoCTF 2026       | Sytnax Error | 10100 |641/8747 |Writeups are here: [Tonye's Writeups]([https://medium.com/@stageking)|
 | scriptCTF 2025     | Syntax Error | 3070 | 262/1189 |  |
 | World Wide CTF 2025| Syntax Error | 1532 | 225/850 |  |
