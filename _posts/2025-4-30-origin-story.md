@@ -19,29 +19,25 @@ date: 2025-4-17 00:00 -0500
 - A student athlete.
 
 ## Why did I start this website?
-To put projects of my own here, including but not limited to: CTF writeups, accomplishments that I don't want on Instagram, business and social media promotions of my own channels,
-and other tech related stuff.
+To put projects of my own here, including but not limited to: CTF writeups, accomplishments, business and social media promotions of my own channels, and more.
 
 
 ## What is next?
 - Prepping for APs
 - Football training
-- CTF grinding
-- Cisco grinding
-- Hitting 2000 in chess
-- Getting a USCF membership and competiting nationally in tournaments.
+- CTF studying
+- Learning Bash for CP-19 season.
+- Reaching 1600 on Chess.com
 
 
 ## Main goals for HS
 - Become a CyberPatriot National Finalist.
 - Become 2000 in chess and win at least one tournament.
 - Become fluent in Spanish.
-- Gain an AP Capstone Diploma.
 - Get into an Ivy League College.
 - Get $500K in schoarship money.
-- Become CCNA certified and CCST certified.
-- Place top 3 at least 10 CTF competitions, in-person or online.
-- Beat some California teams, while I'm at it. 
+- Pass all of my cert exams.
+- Place top 3 at least 10 CTF competitions, in-person or online. 
 
 
 ## Main goals for SY
