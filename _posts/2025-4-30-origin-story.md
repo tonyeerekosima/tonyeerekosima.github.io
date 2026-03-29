@@ -35,17 +35,13 @@ To put projects of my own here, including but not limited to: CTF writeups, acco
 - Become 2000 in chess and win at least one tournament.
 - Become fluent in Spanish.
 - Get into an Ivy League College.
-- Get $500K in schoarship money.
 - Pass all of my cert exams.
 - Place top 3 at least 10 CTF competitions, in-person or online. 
 
 
 ## Main goals for SY
-- Become skilled in football.
 - Master Java.
 - Get 5s on all my APs.
-- Get to Platnum-Semis in CyberPatriot 18.
-- Place 1st in Advanced LBC2. 
 
 ## Closing
 My first year of high school was absolutely phenomenal year and I can't wait for next year! Until 25-26, everyone.  
