@@ -10,7 +10,7 @@ categories:
 tags:
 - cert
 
-date: 2026-1-20 00:00 -0800
+date: 2026-2-25 00:00 -0800
 ---
 
 # Intro to Certifications (certs) 
