@@ -184,3 +184,12 @@ Benefits: High salary potential, leadership advancement, global credibility (rec
 
 Difficulty: Advanced, by far one of the hardest certifications to obtain in the field. Requires 5+ years of experience across the 8 tested domains. 
 
+# What to Do After Getting a Certification?
+Employers don't look at only certifications. They want to know you can apply what you know into real-world settings. In cybersecurity, you learn content for the goal of knowing what you're doing and what you're dealing with. But you won't ever get perfect scenarios where everything aligns, so it's important to start projects to apply what you've learned. 
+
+After earning a certification, the best next step is to start building hands-on experience. This can include creating a home lab, participating in Capture the Flag (CTF) competitions, completing cybersecurity challenges, contributing to projects, or practicing with platforms like TryHackMe and Hack The Box. Me personally, I do CTFs and I'm currently working to build some Linux virtual machines and Cisco Packet Tracer labs for my school's cybersecurity club. Do what works for you. Recommended pathway: Basic certification --> hands-on-projects --> choose specialization --> job search.
+
+Many who gain these certifications aren't even networking/cybersecurity students; they're looking to enter the field. This next step is absolutely crucial for them. That way, you can show something physical to employers and begin choosing a specialization, such as incident response or cloud security. Slowly, but surely, you will build your way to a top role in the field.
+
+Thank you for reading and good luck on any future journeys!
+
