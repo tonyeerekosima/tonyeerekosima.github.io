@@ -1,7 +1,6 @@
 ---
-
 layout: post
-title: How To Get a 5 in AP World History: Modern
+title: How To Get a 5 in AP World History Modern
 description: Tips, tricks, and resources I used that got me As in the class and a 5 on the AP exam as a sophomore.
 image: "/assets/img/APWorldScore.png"
 
