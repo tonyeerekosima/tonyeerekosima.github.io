@@ -1,5 +1,7 @@
 ---
 # the default layout is 'page'
+layout: page
+title: About
 icon: fas fa-circle-user
 order: 1
 ---
