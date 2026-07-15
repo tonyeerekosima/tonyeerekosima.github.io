@@ -6,7 +6,7 @@ title: Top 10 Cybersecurity Certifications to Get in 2026
 
 description: Brief overview of some popular industry-standard certifications for those looking to enter the cybersecurity field. 
 
-image: 
+image: /assets/img/Certimage.png
 
 categories:
 
